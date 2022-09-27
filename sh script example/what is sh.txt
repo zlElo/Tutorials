@@ -1,0 +1,5 @@
+The .sh files are Linux files. They can help you to run many Commands from the Commandline in one file.
+
+This files are nice to make many steps from the Commandline in one click.
+
+You can find a example in this folder, which contains the name: "update.sh". This simple file Update only your Linux System.
